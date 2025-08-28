@@ -35,9 +35,6 @@ AS
 Output:
 YES
 
-shell
-Copy code
-
 #### Example 2:
 Input:
 2H
@@ -46,9 +43,6 @@ Input:
 Output:
 NO
 
-shell
-Copy code
-
 #### Example 3:
 Input:
 4D
@@ -56,9 +50,6 @@ AS AC AD AH 5H
 
 Output:
 YES
-
-python
-Copy code
 
 ## 🧠 Logic
 
