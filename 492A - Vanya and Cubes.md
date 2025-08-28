@@ -37,9 +37,6 @@ Input:
 Output:
 1
 
-shell
-Copy code
-
 ### Example 2
 Input:
 25
@@ -47,8 +44,6 @@ Input:
 Output:
 4
 
-yaml
-Copy code
 
 #### Explanation for Example 2:
 - Level 1: needs 1 cube → total = 1
